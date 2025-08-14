@@ -1,2 +1,2 @@
-Create table test1(
+Create table test1( sno int
 )
