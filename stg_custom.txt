@@ -1,3 +1,3 @@
-Create table stg_custom
+Create table stg_custom_new
 (
 )
